@@ -1,0 +1,5 @@
+[Fri Feb 04 01:18:29.775709 2022] [mpm_event:notice] [pid 3326:tid 140689730985024] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Fri Feb 04 01:18:29.775795 2022] [core:notice] [pid 3326:tid 140689730985024] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Feb 04 02:14:19.001075 2022] [mpm_event:notice] [pid 3326:tid 140689730985024] AH00491: caught SIGTERM, shutting down
+[Fri Feb 04 18:26:44.744854 2022] [mpm_event:notice] [pid 523:tid 140141614201920] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Fri Feb 04 18:26:44.755702 2022] [core:notice] [pid 523:tid 140141614201920] AH00094: Command line: '/usr/sbin/apache2'
